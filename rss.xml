@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Oned Pro Design</title>
+        <description>Oned Pro Design Components Library</description>
+        <link>https://github.com/starlight-sms/OnedPro</link>
+        <image>
+            <title>Oned Pro</title>
+        </image>
+        <generator>Sketch</generator>
+        <item>
+            <title>Hello world</title>
+            <pubDate>Tuesday, 7 Jun 2022 15:26:19 GMT</pubDate>
+            <link>https://github.com/starlight-sms/OnedPro</link>
+            <enclosure url="https://github.com/tijmenvangurp/sketch-library/raw/master/hello-world.sketch" type="application/octet-stream" sparkle:version="9.0.0" />
+        </item>
+    </channel>
+</rss>
