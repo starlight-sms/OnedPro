@@ -2,5 +2,5 @@
 
 RSS feed sketch library
 
-One-click to install to your Sketch App: [sketch://add-library?url=https://gitlab.smsassist.com/foundation/oned-pro-design/-/raw/master/rss.xml](sketch://add-library?url=https://gitlab.smsassist.com/foundation/oned-pro-design/-/raw/master/rss.xml)
-
+One-click to install to your Sketch App: 
+sketch://add-library?url=https://raw.githubusercontent.com/starlight-sms/OnedPro/master/rss.xml
